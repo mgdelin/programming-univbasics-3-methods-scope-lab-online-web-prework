@@ -3,6 +3,12 @@ def mario
   puts phrase
 end
 
+$phrase = "'It's-a me, Mario!'"
+
 def toadstool
   puts status
 end
+
+$status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+end
+
