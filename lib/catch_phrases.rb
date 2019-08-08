@@ -1,4 +1,4 @@
-$phrase="'It's-a me, Mario!'"
+$phrase='Its-a me, Mario!'
 $status='Thank You Mario! But Our Princess Is In Another Castle!'
 def mario
   puts $phrase
